@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">MediaDownloader</string>
+    <string name="nav_home">Home</string>
+    <string name="nav_downloading">Downloading</string>
+    <string name="nav_history">History</string>
+    <string name="nav_settings">Settings</string>
+    <string name="channel_download_id">download_channel</string>
+    <string name="channel_download_name">Downloads</string>
+    <string name="channel_download_desc">Shows active download progress</string>
+    <string name="notification_download_title">Downloading media</string>
+    <string name="notification_cancel">Cancel</string>
+    <string name="notification_pause">Pause</string>
+    <string name="notification_resume">Resume</string>
+    <string name="action_cancel_download">com.mediadownloader.ACTION_CANCEL_DOWNLOAD</string>
+    <string name="action_pause_download">com.mediadownloader.ACTION_PAUSE_DOWNLOAD</string>
+    <string name="action_resume_download">com.mediadownloader.ACTION_RESUME_DOWNLOAD</string>
+</resources>

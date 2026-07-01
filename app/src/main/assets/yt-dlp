@@ -1,0 +1,3 @@
+#!/bin/sh
+echo "yt-dlp placeholder - replace with real binary"
+exit 1
